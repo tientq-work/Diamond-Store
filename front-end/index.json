@@ -1,0 +1,20 @@
+[
+    {
+        "productId": 1,
+        "productName": "Vong VIP",
+        "description": "Vong sieu vip",
+        "mountId": {
+            "mountId": 2,
+            "mountName": "Pokemon Watch",
+            "size": 68,
+            "type": "watch",
+            "material": "garbage",
+            "basePrice": 100000
+        },
+        "componentsPrice": 127000,
+        "laborFee": 8000,
+        "price": "162000",
+        "status": "InStock",
+        "quantity": 2
+    }
+]
